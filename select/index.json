@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "レーザービーム (Album‐mix)",
+  "base_artist": "Perfume",
+  "createdAt": "2026-02-16T10:12:36.829721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レーザービーム",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/01_レーザービーム_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "レーザービーム (Album-mix)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/02_レーザービーム_(Album-mix)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Laser Beam (Album-mix) [レーザービーム]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/03_Laser_Beam_(Album-mix)_[レーザービーム]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レーザービーム",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/04_レーザービーム_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "レーザービーム",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/05_レーザービーム_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "レーザービーム",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/06_レーザービーム_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "レーザービーム",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/07_レーザービーム_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "レーザービーム - Album-mix",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/08_レーザービーム_-_Album-mix_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "レーザービーム (Laser Beam)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/09_レーザービーム_(Laser_Beam)_Perfume.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レーザービーム",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_01_レーザービーム_Perfume.txt"
+    }
+  ]
+}
